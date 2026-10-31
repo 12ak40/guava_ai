@@ -1,0 +1,11 @@
+# Ignore large data files
+*.xlsx
+*.csv
+*.pdf
+
+# Ignore images (we have them for the paper, GitHub only needs code)
+*.png
+
+# Ignore Mac system files
+.DS_Store
+__pycache__/
