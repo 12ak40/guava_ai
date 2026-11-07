@@ -1,0 +1,21 @@
+Rank,Metabolite,SHAP_Importance,RF_Importance
+1,"(3ar,4r,9as)-4-(2h-1,3-benzodioxol-5-yl)-5,6,7-trimethoxy-3-oxo-1h,4h,9h,9ah-naphtho[2,3-c]furan-3a-yl acetate",0.014800000000000006,0.04
+2,"(2s,10r,11r,13r,14s,15r)-6,7,18,19-tetramethoxy-10,15-bis(4-methoxyphenyl)-9,12,16-trioxapentacyclo[11.7.1.02,11.03,?.01?,21]henicosa-1(21),3,5,7,17,19-hexaen-14-yl acetate",0.014670707070707065,0.03272727272727272
+3,Neolinderatone,0.014666666666666666,0.03
+4,"8-benzoyl-5,7-dihydroxy-6-(3-methylbut-2-en-1-yl)-4-phenylchromen-2-one",0.01453333333333333,0.03
+5,Myricitrin,0.014400000000000005,0.03
+6,"2,3,7,11-tetrahydroxy-12-{[(2s,3r,4s,5s,6r)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxy}-6-oxatetraphen-5-one",0.014266666666666667,0.03
+7,2-Hydroxyacetophenone,0.01413333333333333,0.03
+8,"(2s)-2-[3,4-dihydroxy-5-(3-methylbut-2-en-1-yl)phenyl]-5,7-dihydroxy-6,8-bis(3-methylbut-2-en-1-yl)-2,3-dihydro-1-benzopyran-4-one",0.014000000000000005,0.03
+9,"(8z)-2,16-dioxapentacyclo[22.2.2.13,?.11?,21.01?,1?]triaconta-1(26),3(30),4,6,8,10,12,14,17(29),18,20,24,27-tridecaene-4,12,22-triol",0.010266666666666669,0.02
+10,"4,7-dihydroxy-3,9-dimethoxy-1-methylbenzo[c]chromen-6-one",0.01,0.02
+11,2-Pentyl-3-phenyl-2-propenal,0.009866666666666668,0.02
+12,"8,8-dimethyl-10-(3-methylbut-2-en-1-yl)-2-{2,2',4,4',5-pentahydroxy-[1,1'-biphenyl]-3-yl}-2h,3h-pyrano[3,2-g]chromen-4-one",0.009466666666666667,0.02
+13,"1,26-Dicaffeoylhexacosanediol",0.009466666666666667,0.02
+14,Ellagic acid 2-rhamnoside,0.009333333333333332,0.02
+15,Spiraeoside,0.009200000000000003,0.02
+16,Morellic acid,0.009111111111111113,0.02
+17,"(8r,9s,10r,11r)-8-(acetyloxy)-3,4,5,19-tetramethoxy-9,10-dimethyl-15,17-dioxatetracyclo[10.7.0.02,?.01?,1?]nonadeca-1(19),2(7),3,5,12,14(18)-hexaen-11-yl propanoate",0.009066666666666664,0.02
+18,"5,9,10-trihydroxy-2,2-dimethyl-7,7-bis(3-methylbut-2-en-1-yl)-1,11-dioxatetracene-6,8-dione",0.009066666666666664,0.02
+19,"3,10-dihydroxy-9-{[(2s,3r)-6-hydroxy-2-(hydroxymethyl)-7-methoxy-2,3-dihydro-1-benzofuran-3-yl]oxy}benzo[c]chromen-6-one",0.009066666666666664,0.02
+20,(Rac)-Byakangelicin,0.009066666666666664,0.02

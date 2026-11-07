@@ -1,0 +1,21 @@
+Rank,Metabolite,SHAP_Importance,RF_Importance
+1,"3,5-dichloro-2-(2,4-dihydroxy-6-methoxycarbonyl-phenoxy)-6-methoxy-4-methyl-benzoic acid",0.01053333333333333,0.02
+2,"[(2r,3r,4s,5r,6s)-3,4,5-tris(acetyloxy)-6-{[(3r)-7,10-bis(acetyloxy)-4-hydroxy-1,3-dimethyl-1h,3h,4h-naphtho[2,3-c]pyran-9-yl]oxy}oxan-2-yl]methyl acetate",0.009733333333333333,0.02
+3,"(2r,6r,10r,18r,20s,23s)-6,10,23-trimethyl-4-azahexacyclo[12.11.0.02,11.0?,?.01?,2?.01?,23]pentacos-15(24)-ene-8,20,25-triol",0.009333333333333332,0.02
+4,"CDP-DG(18:0/18:2(9Z,12Z))",0.009200000000000003,0.02
+5,"10-{[5-(acetyloxy)-3-[(4-{[4,5-bis(acetyloxy)-3-hydroxyoxan-2-yl]oxy}-3,5-dihydroxy-6-methyloxan-2-yl)oxy]-4-hydroxyoxan-2-yl]oxy}-9-(hydroxymethyl)-2,2,6a,6b,9,12a-hexamethyl-1,3,4,5,6,7,8,8a,10,11,12,12b,13,14b-tetradecahydropicene-4a-carboxylic acid",0.009066666666666669,0.02
+6,"(2s,3r)-2-[(14s)-14-{[(2r,3r,4r,5s,6r)-3,4-dihydroxy-6-(hydroxymethyl)-5-{[(2s,3r,4s,5s,6s)-3,4,5-trihydroxy-6-methyloxan-2-yl]oxy}oxan-2-yl]oxy}pentadecyl]-4-methylidene-5-oxooxolane-3-carboxylic acid",0.007733333333333331,0.02
+7,"2-[(1z,2s,3as,3bs,5as,6s,9as,9bs,11ar)-2-(acetyloxy)-3a,3b,6,9a-tetramethyl-7,10-dioxo-decahydro-2h-cyclopenta[a]phenanthren-1-ylidene]-6-methylhept-5-enoic acid",0.0056,0.01
+8,3-HYDROXYINDOLE,0.005466666666666666,0.01
+9,"4-ethoxy-7,8-dimethoxyfuro[2,3-b]quinoline",0.005200000000000001,0.01
+10,Neoannonin_B,0.0052,0.01
+11,"2-[1-(3-benzoyl-6-{[(2e)-3,7-dimethylocta-2,6-dien-1-yl]oxy}-2,4-dihydroxyphenyl)-3,7-dimethyloct-6-en-1-yl]-1,8-dihydroxy-3-methoxy-6-methylanthracene-9,10-dione",0.0052,0.01
+12,Gomisin D,0.005155555555555554,0.01
+13,"(1r,3s,4s,7s,8s,10r,12s,13r,14s,21r,25r,26s)-3,21,23-trihydroxy-4,6,8,10,12-pentamethyl-15-oxa-22-azaheptacyclo[12.9.3.21?,1?.11,21.0?,2?.0?,2?.0?,13]nonacosa-5,22-dien-24-one",0.005066666666666666,0.01
+14,"(2r,4r,6s,7r,8s,9r,10r,14s,19r)-2,8,10,14,18,18-hexamethyl-6-(2-methylprop-1-en-1-yl)-17-oxo-5-oxapentacyclo[11.8.0.02,1?.0?,?.01?,1?]henicos-1(13)-en-7-yl acetate",0.005066666666666666,0.01
+15,"9,28-dihydroxy-5,5-dimethyl-4-oxatetracyclo[24.2.2.02,11.03,?]triaconta-1(28),2,6,8,10,26(30)-hexaene-27,29-dione",0.005066666666666666,0.01
+16,"PE(22:6(4Z,7Z,10Z,13Z,16Z,19Z)/22:6(4Z,7Z,10Z,13Z,16Z,19Z))",0.005066666666666666,0.01
+17,"TG(22:2(13Z,16Z)/18:4(6Z,9Z,12Z,15Z)/22:5(7Z,10Z,13Z,16Z,19Z))",0.005022222222222222,0.01
+18,"TG(18:1(11Z)/22:5(4Z,7Z,10Z,13Z,16Z)/22:5(4Z,7Z,10Z,13Z,16Z))",0.005022222222222222,0.01
+19,"(1s,3br,4r,5ar,9ar,9br,11as)-4-hydroxy-1-[(2r,3s,5r)-5-[(1r)-1-hydroxy-2-methoxy-2-methylpropyl]-2-methoxyoxolan-3-yl]-3b,6,6,9a,11a-pentamethyl-1h,2h,4h,5h,5ah,9bh,10h,11h-cyclopenta[a]phenanthren-7-one",0.004977777777777778,0.01
+20,"TG(18:3(6Z,9Z,12Z)/22:6(4Z,7Z,10Z,13Z,16Z,19Z)/22:2(13Z,16Z))",0.004977777777777778,0.01

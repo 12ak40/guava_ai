@@ -1,0 +1,21 @@
+Rank,Metabolite,SHAP_Importance,RF_Importance
+1,"[(2r,3s,4s,5r,6s)-5-(acetyloxy)-3,4-dihydroxy-6-[(6-methoxy-2-oxochromen-7-yl)oxy]oxan-2-yl]methyl acetate",0.009600000000000003,0.020408163265306124
+2,"PIP(18:1(9Z)/18:2(9Z,12Z))",0.009066666666666667,0.020408163265306124
+3,"10a,10'a-dimethyl (5r,5'r,6s,6's,8as,8'as,10as,10'as)-1,1',5,5',8a,8'a-hexahydroxy-6,6'-dimethyl-8,8',9,9'-tetraoxo-5h,5'h,6h,6'h,7h,7'h-[2,2'-bixanthene]-10a,10'a-dicarboxylate",0.008533333333333335,0.020408163265306124
+4,"(6as,6br,8as,11r,12ar,12bs,14ar)-2,3-dihydroxy-11-(methoxycarbonyl)-6b,8a,11,12b,14a-pentamethyl-5-oxo-6,6a,7,8,9,10,12,12a,13,14-decahydropicene-4-carboxylic acid",0.007000000000000002,0.020408163265306124
+5,Ellipticine,0.006000000000000002,0.010204081632653062
+6,"4-Hydroxy-3-methyl-6-(2-methyl-1,2,4a,5,6,7,8,8a-octahydronaphthalen-1-yl)pyran-2-one",0.005466666666666667,0.010204081632653062
+7,"TG(18:0/22:6(4Z,7Z,10Z,13Z,16Z,19Z)/22:1(13Z))",0.0054666666666666665,0.010204081632653062
+8,"5-[(10z)-20-(3,5-dihydroxyphenyl)icos-10-en-1-yl]benzene-1,3-diol",0.005400000000000001,0.010204081632653062
+9,Gemichalcone_C,0.005400000000000001,0.010204081632653062
+10,"[(3s,6s,9s,12s,15s,21s,24s,27r,33as)-12,15-bis[(2s)-butan-2-yl]-4,16,22-trihydroxy-3,21,27-triisopropyl-24-[(4-methoxyphenyl)methyl]-2,8,11,14,20-pentamethyl-6-(2-methylpropyl)-1,7,10,13,19,25,28-heptaoxo-3h,6h,9h,12h,15h,18h,21h,24h,27h,30h,31h,32h,33h,33ah-pyrido[1,2-d]1-oxa-4,7,10,13,16,19,22,25,28-nonaazacyclotriacontan-9-yl]acetic acid",0.005400000000000001,0.010204081632653062
+11,"(1r,3ar,5ar,7s,9as,11ar)-3a,6,6,9a,11a-pentamethyl-1-[(2r)-6-methyl-5-methylideneheptan-2-yl]-1h,2h,3h,5h,5ah,7h,8h,9h,11h-cyclopenta[a]phenanthren-7-yl acetate",0.005333333333333333,0.010204081632653062
+12,5-Hydroxylysine,0.0052,0.010204081632653062
+13,"(2s,3s,4s,5r,6r)-6-{[(3s,4as,5s,6ar,6bs,8r,8ar,9r,10r,12as,14ar,14br)-8-hydroxy-8a-(hydroxymethyl)-5-(methoxycarbonyl)-5,6a,6b,11,11,14b-hexamethyl-9,10-bis({[(2z)-2-methylbut-2-enoyl]oxy})-1,2,3,4,4a,6,7,8,9,10,12,12a,14,14a-tetradecahydropicen-3-yl]oxy}-3,5-dihydroxy-4-{[(2s,3r,4s,5s)-3,4,5-trihydroxyoxan-2-yl]oxy}oxane-2-carboxylic acid",0.0052,0.010204081632653062
+14,"3a,5a,5b,8,8,11a-hexamethyl-1-(prop-1-en-2-yl)-hexadecahydrocyclopenta[a]chrysen-9-yl 3-(acetyloxy)hexadecanoate",0.0052,0.010204081632653062
+15,"(1r,3as,5ar,5br,7ar,9s,11ar,11br,13ar,13br)-3a-[(acetyloxy)methyl]-5a,5b,8,8,11a-pentamethyl-1-(prop-1-en-2-yl)-hexadecahydrocyclopenta[a]chrysen-9-yl (2e)-3-(4-hydroxyphenyl)prop-2-enoate",0.0052,0.010204081632653062
+16,3'-Methoxypuerarin,0.0052,0.010204081632653062
+17,PC(P-18:0/16:0),0.0052,0.010204081632653062
+18,Effusol,0.0052,0.010204081632653062
+19,"(1r,2r,3e,5r,7s,9e,11r,12s,14r,15s,16s,17s)-17-benzyl-5,19-dihydroxy-5,7,14,15-tetramethyl-6-oxo-13-oxa-18-azatetracyclo[9.8.0.01,1?.012,1?]nonadeca-3,9,18-trien-2-yl acetate",0.0052,0.010204081632653062
+20,"(8z)-2,16-dioxapentacyclo[22.2.2.13,?.11?,21.01?,1?]triaconta-1(26),3(30),4,6,8,10,12,14,17(29),18,20,24,27-tridecaene-4,12,22-triol",0.0052,0.010204081632653062

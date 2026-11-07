@@ -1,0 +1,6 @@
+Sample,Actual,Predicted,Correct
+A1_3,Lowland,Lowland,True
+P1_1,Amazonian,Amazonian,True
+F1_2,Amazonian,Amazonian,True
+B1_3,Lowland,Lowland,True
+F1_1,Amazonian,Amazonian,True
